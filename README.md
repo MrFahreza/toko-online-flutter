@@ -1,8 +1,7 @@
-# 📱 Mobile Client: Toko Online Sederhana (Flutter)
+## 📱 Mobile Client - Toko Online Sederhana (Flutter)
 
 Ini adalah aplikasi klien seluler (mobile client) yang dibangun menggunakan **Flutter** sebagai bagian dari "Test Project: Mobile App Toko Online Sederhana". Aplikasi ini berinteraksi dengan **Backend NestJS** untuk mengelola seluruh siklus transaksi multi peran (Pembeli, CS1, CS2) dengan fokus pada **User Experience (UX) yang modern** dan **keamanan data**.
 
----
 
 ## 🚀 Fitur Utama
 
