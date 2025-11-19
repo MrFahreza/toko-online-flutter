@@ -21,8 +21,6 @@ Ini adalah aplikasi klien seluler (mobile client) yang dibangun menggunakan **Fl
 - **Root/Jailbreak Check:** Menggunakan `flutter_jailbreak_detection_plus` untuk memblokir aplikasi di perangkat yang tidak aman.
 - **Anti-Screenshot:** Menggunakan `screen_protector` untuk mencegah pengambilan tangkapan layar di seluruh aplikasi (keamanan visual).
 
----
-
 ## 🛠️ Tech Stack & Architecture
 
 | Komponen | Teknologi/Pola | Deskripsi |
