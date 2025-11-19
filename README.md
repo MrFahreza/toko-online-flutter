@@ -35,7 +35,6 @@ Ini adalah aplikasi klien seluler (mobile client) yang dibangun menggunakan **Fl
 | **Secure Storage** | `flutter_secure_storage` | Menyimpan JWT token dengan aman di *keychain* / *keystore*. |
 | **UI Helpers** | `flutter_screenutil`, `shimmer`, `cached_network_image` | Untuk responsivitas, loading visual, dan caching gambar. |
 
----
 
 ## ⚙️ Instalasi dan Menjalankan
 
