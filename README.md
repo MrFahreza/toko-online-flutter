@@ -38,13 +38,13 @@ Ini adalah aplikasi klien seluler (mobile client) yang dibangun menggunakan **Fl
 
 Aplikasi ini memerlukan backend NestJS untuk berjalan. Pastikan backend sudah berjalan di port `3000` dan berada di jaringan lokal (Wi-Fi) yang sama dengan perangkat seluler yang akan digunakan.
 
-### Prasyarat
+### 1. Prasyarat
 - Node.js & NestJS Backend (**Sudah terinstall dan berjalan**).
 - Flutter SDK (v3.16 atau terbaru).
 - Perangkat Android atau iOS yang terhubung.
 - IP Lokal Laptop (misalnya `192.168.1.XX`).
 
-### Setup Environment Variables
+### 2. Setup Environment Variables
 
 Buat file bernama **`secrets.json`** di root proyek Flutter dan salin kredensial yang dibutuhkan. **Pastikan** `BASE_URL` disetel ke IP lokal **Laptop/PC** untuk pengujian *real-time* di perangkat seluler fisik.
 
@@ -57,7 +57,7 @@ Buat file bernama **`secrets.json`** di root proyek Flutter dan salin kredensial
 }
 ```
 
-### Command Menjalankan Aplikasi
+### 3. Command Menjalankan Aplikasi
 Gunakan perintah flutter run berikut untuk menyuntikkan variabel environment saat runtime:
 ```
 # Ganti [IP_LOKAL] dengan IP aktual (misal: 192.168.1.10)
