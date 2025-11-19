@@ -1,0 +1,25 @@
+# Flutter specific files
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Build artifacts and directories
+/build/
+/ios/.symlinks/
+/android/.gradle/
+/android/app/build/
+/android/app/.cxx/
+/android/key.properties
+/android/.idea/
+
+# Security and Environment Files (CRITICAL)
+secrets.json
+.env
+debug-info/ # Output directory for obfuscation symbols
+/ios/Flutter/Generated.xcconfig
